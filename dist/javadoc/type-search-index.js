@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"Controlador","l":"c_archivo"},{"p":"Controlador","l":"c_KLOC"},{"p":"Modelo","l":"m_KLOC"},{"p":"Vista","l":"v_formulas"},{"p":"Vista","l":"v_portada"},{"p":"Vista","l":"v_principal"}]
