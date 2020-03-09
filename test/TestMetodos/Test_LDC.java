@@ -36,10 +36,11 @@ public class Test_LDC {
      * En caso negativo.
      * @since COCOMO1 1.0.0
      */
+ /*
     @Test
     public void TestValidarTotalLDC2(){
        boolean bool = v_principal.validarTotalLDC(800);
        assertEquals("El total de Líneas de Código es muy bajo.",true, bool);
     }
- 
+ */
 }
